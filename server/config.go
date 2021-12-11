@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/BurntSushi/toml"
-	"github.com/darkMoon1973/PortScanner/common/lib/goworker"
-	"github.com/darkMoon1973/PortScanner/common/lib/logs"
+	"github.com/libsgh/PortScanner-3/common/lib/goworker"
+	"github.com/libsgh/PortScanner-3/common/lib/logs"
 	"github.com/sirupsen/logrus"
 )
 

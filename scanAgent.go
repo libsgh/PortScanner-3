@@ -1,6 +1,6 @@
 package main
 
-import "github.com/darkMoon1973/PortScanner/agent"
+import "github.com/libsgh/PortScanner-3/agent"
 
 func main() {
 	agent.Run()

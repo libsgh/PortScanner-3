@@ -4,7 +4,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/darkMoon1973/PortScanner/common/util"
+	"github.com/libsgh/PortScanner-3/common/util"
 )
 
 type (

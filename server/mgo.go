@@ -3,8 +3,8 @@ package server
 import (
 	"time"
 
-	"github.com/darkMoon1973/PortScanner/common/lib/go-nmap"
-	"github.com/darkMoon1973/PortScanner/common/util"
+	"github.com/libsgh/PortScanner-3/common/lib/go-nmap"
+	"github.com/libsgh/PortScanner-3/common/util"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 )

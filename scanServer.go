@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/darkMoon1973/PortScanner/server"
+	"github.com/libsgh/PortScanner-3/server"
 )
 
 func main() {

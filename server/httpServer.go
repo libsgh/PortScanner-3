@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/darkMoon1973/PortScanner/common/util"
 	"github.com/gin-gonic/gin"
+	"github.com/libsgh/PortScanner-3/common/util"
 )
 
 type response struct {

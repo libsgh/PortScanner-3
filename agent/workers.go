@@ -1,8 +1,8 @@
 package agent
 
 import (
-	"github.com/darkMoon1973/PortScanner/common/lib/go-masscan"
-	"github.com/darkMoon1973/PortScanner/common/lib/goworker"
+	"github.com/libsgh/PortScanner-3/common/lib/go-masscan"
+	"github.com/libsgh/PortScanner-3/common/lib/goworker"
 )
 
 func resultToNmapQueue(results []masscan.Result, queue, class string) error {

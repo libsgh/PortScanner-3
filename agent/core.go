@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/darkMoon1973/PortScanner/common/lib/go-masscan"
-	"github.com/darkMoon1973/PortScanner/common/lib/go-nmap"
+	"github.com/libsgh/PortScanner-3/common/lib/go-masscan"
+	"github.com/libsgh/PortScanner-3/common/lib/go-nmap"
 )
 
 // masscan 扫描核心逻辑

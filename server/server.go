@@ -6,11 +6,11 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/darkMoon1973/PortScanner/common/lib/go-nmap"
-	"github.com/darkMoon1973/PortScanner/common/lib/goworker"
-	"github.com/darkMoon1973/PortScanner/common/util"
 	"github.com/darkMoon1973/email"
 	"github.com/go-redis/redis"
+	"github.com/libsgh/PortScanner-3/common/lib/go-nmap"
+	"github.com/libsgh/PortScanner-3/common/lib/goworker"
+	"github.com/libsgh/PortScanner-3/common/util"
 	"github.com/sirupsen/logrus"
 )
 

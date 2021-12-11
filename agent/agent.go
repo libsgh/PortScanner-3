@@ -6,9 +6,9 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/darkMoon1973/PortScanner/common/lib/goworker"
-	"github.com/darkMoon1973/PortScanner/common/util"
 	"github.com/go-redis/redis"
+	"github.com/libsgh/PortScanner-3/common/lib/goworker"
+	"github.com/libsgh/PortScanner-3/common/util"
 	"github.com/sirupsen/logrus"
 )
 
